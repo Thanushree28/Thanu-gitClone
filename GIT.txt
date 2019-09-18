@@ -1,0 +1,43 @@
+* GIT----> GIT is a Global Information Tracker.
+-Invented by linux torre
+-It is a source code management.[SCM] / Software configuration management
+-It acts as a database storage.
+-It is a version control sysytem.i.e, tracking for changes in computer files or projects.
+-It interacts with different versions as long it is present in local drive.
+-It can also be reverted back(go back and make new changes) to any (data)version whenever you want.
+
+GIT has two appln- 1.git bash(it has lots of  commands,it is difficult to remember)
+	               2.tortoise git(uses GUI)
+-git bash is not necessary but inorder to install tortoise git you should first install gitbash to have si=ome path
+
+workflow of git
+
+git            working 		      staging area		          local repository		server repository
+               directory(add)	(git has been initiated)(commit)		(push)		      (pull)
+
+-when we create any files in git it will be stored in the server repository
+-in git we can store any format of files.
+
+Git comes under two types of VCS
+	-CVCS- Centralized version control system.-->SVN (nowadays we dont use it),no abbrevation but only it is a sub version.
+	-DVCS- Distributed version control system. -->Git (dvcs interacts with many users anywhere across the world using internet)
+-It is a Distributed and Centralized version control systems.s
+-Many developers can work in the same project without using the common network.
+-GIT can access different networks.
+-Developers can work from home.
+-Coordinates with multiple developers tracking each and every version of files/projects in the system.
+
+-GIT allows you to create a repository.
+            Repository comes as
+              1.Local
+              2.Remote(GitHub or BitBucket)
+-GIT is a client application.
+
+
+Devops
+Development + operation = Devops
+
+
+
+
+
